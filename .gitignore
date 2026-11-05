@@ -1,0 +1,4 @@
+*.plasmoid
+*.zip
+.DS_Store
+*.png

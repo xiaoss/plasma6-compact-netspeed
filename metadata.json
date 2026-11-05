@@ -1,0 +1,23 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Antigravity"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "实时紧凑网络流量监控（上下箭头简洁样式）",
+        "Description[zh_CN]": "实时紧凑网络流量监控（上下箭头简洁样式）",
+        "EnabledByDefault": true,
+        "Icon": "network-workgroup",
+        "Id": "org.kde.plasma.compactnetspeed",
+        "License": "GPL-2.0+",
+        "Name": "实时网络流量",
+        "Name[zh_CN]": "实时网络流量",
+        "Version": "1.0.0"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-MainScript": "ui/main.qml"
+}
